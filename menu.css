@@ -1,0 +1,172 @@
+ul {
+  list-style: none; /*убираем маркеры списка*/
+  margin: 0; /*убираем отступы*/
+  margin-bottom:10px;
+  padding-left: 0; /*убираем отступы*/
+  background:#FFFFFF; /*добавляем фон всему меню (заменив этот параметр, вы поменяете цвет всего меню)*/
+  height: 6vw;
+  z-index:11;
+}
+ a {
+  text-decoration: none; /*убираем подчеркивание текста ссылок*/
+  background:#FFFFFF; /*добавляем фон к пункту меню (заменив этот параметр, вы поменяете цвет всех пунктов меню)*/
+  color:#000000; /*меняем цвет ссылок*/
+  padding:0px 10px; /*добавляем отступ*/
+  font-size:3.5vw;
+  font-family: Mistral; 
+  line-height:5vw; /*ровняем меню по вертикали*/
+  display: block; 
+  border-right: 1px solid #FFFFFF; /*добавляем бордюр справа*/
+  -moz-transition: all 0.3s 0.01s ease; /*делаем плавный переход*/
+  -o-transition: all 0.3s 0.01s ease;
+  -webkit-transition: all 0.3s 0.01s ease;
+}
+ a:hover {
+  background:#90EE90;/*добавляем эффект при наведении*/
+}
+ .is-active{
+background: #90EE90;
+}
+li {
+  float:left; /*Размещаем список горизонтально для реализации меню*/
+  z-index:11;
+}
+
+@media screen and (max-width: 768px) {
+
+    ul {
+        width: 111px;
+        height: 5.3vw;
+        padding: 3px 3px;
+        position: absolute;
+        top: 8px;
+        left: 8px;
+        border: solid 0.7px #aaa;
+        border-radius: 1px;
+        box-shadow: 0 1px 1px rgba(0,0,0,.3); /*тень(ширина,высота,радиус размыва,растяжение,цвет)*/
+    }
+
+    li {
+        display: none; /*скройте все элементы &lt;li&gt;*/
+        margin: 0;
+        width: 110px;
+        height: 5vw;
+    }
+
+    li.current {
+        display: block; /* показывайте только текущий элемент &lt;li&gt; */
+    }
+
+    .nav a {
+        display: block;
+        padding: 1px 1px 1px 15px;
+        text-align: left;
+    }
+
+    .is-active {
+        color: #666;
+    }
+
+    /* при проведении мышью */
+  
+        ul:hover li {
+            display: block;
+            margin: 0;
+        }
+}
+
+@media screen and (max-width: 414px) {
+    ul {
+        width: 111px;
+        height: 7.3vw;
+        padding: 3px 3px;
+        position: absolute;
+        top: 8px;
+        left: 8px;
+        border: solid 0.7px #aaa;
+        border-radius: 1px;
+        box-shadow: 0 1px 1px rgba(0,0,0,.3);
+    }
+
+    li {
+        display: none; /*скройте все элементы &lt;li&gt;*/
+        margin: 0.2vw;
+        width: 110px;
+        height: 7vw;
+    }
+
+    .current {
+        display: block; /* показывайте только текущий элемент &lt;li&gt; */
+    }
+
+    .nav a {
+        display: block;
+        padding: 1.3vw 1px 1px 16px;
+        text-align: left;
+        margin-top: 0.3px;
+        margin-bottom: 0.3px;
+        font-size: 5.6vw;
+    }
+
+    .is-active {
+        color: #666;
+    }
+
+    /* при проведении мышью */
+    ul:hover {
+        background-image: none;
+    }
+
+        ul:hover li {
+            display: block;
+            margin: 0;
+        }
+}
+
+@media screen and (max-width: 375px) {
+    ul {
+        width: 111px;
+        height: 7.2vw;
+        padding: 3px 3px;
+        position: absolute;
+        top: 8px;
+        left: 8px;
+        border: solid 0.7px #aaa;
+        border-radius: 1px;
+        box-shadow: 0 1px 1px rgba(0,0,0,.3);
+    }
+
+    li {
+        display: none; /*скройте все элементы &lt;li&gt;*/
+        margin: 0;
+        width: 110px;
+        height: 7vw;
+    }
+
+    .current {
+        display: block; /* показывайте только текущий элемент &lt;li&gt; */
+    }
+
+    .nav a {
+        display: block;
+        padding: 1.4vw 1px 1px 16px;
+        text-align: left;
+        margin-top: 0.3px;
+        margin-bottom: 0.3px;
+        font-size: 5.6vw;
+    }
+
+    .is-active {
+        color: #666;
+    }
+
+    /* при проведении мышью */
+    ul:hover {
+        background-image: none;
+    }
+
+        ul:hover li {
+            display: block;
+            margin: 0;
+        }
+}

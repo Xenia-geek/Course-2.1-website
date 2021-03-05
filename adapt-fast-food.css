@@ -1,0 +1,273 @@
+@media screen and (max-width: 768px) {
+    .bob-2 a {
+        font-size: 3.3vw;
+        top: 10vw;
+    }
+
+    .individ-banner-2 {
+        top: 10vw;
+        font-size: 3.5vw;
+        left: 16.7%;
+    }
+
+    .hot-dog-4 {
+        left: 19%;
+    }
+
+    .individ-banner-3 {
+        top: 10vw;
+        font-size: 3.5vw;
+        left: 30%;
+    }
+
+    .hot-dog-5 {
+        left: 33.2%;
+        width: 57%;
+    }
+
+    .text-5 {
+        top: 11vw;
+        font-size: 5.1vw;
+        left: 0;
+    }
+
+    .hot-1 img {
+        top: 23vw;
+        width: 65%;
+        left: 18%;
+    }
+
+    .t-1, .t-2, .t-3, .t-4, .t-5, .t-6, .t-7, .t-8, .t-9, .t-10, .t-11, .t-12, .t-13, .t-14, .t-15, .t-16, .t-17, .t-18 {
+        font-size: 4vw;
+        width: 85%;
+        left: 7%;
+    }
+
+    .t-1 {
+        top: 91vw;
+    }
+
+    
+
+
+    .t-2 {
+        top: 143vw;
+    }
+
+    
+
+    .t-4 {
+        top: 223.5vw;
+    }
+
+    
+
+    .t-5 {
+        top: 265vw;
+    }
+
+    
+
+    .t-6 {
+        top: 306vw;
+    }
+
+   
+    .t-8 {
+        top: 376vw;
+    }
+    .t-9 {
+        top: 405vw;
+    }
+    
+
+    .fon-4 img {
+        top: 15vw;
+    }
+
+    .fon img {
+        top: 152vw;
+    }
+
+    .fon-2 img {
+        top: 289vw;
+    }
+
+    .fon-3 img {
+        position: absolute;
+        display: flex;
+        top: 289vw;
+        width: 94%;
+        right: 0;
+        left: 3%;
+    }
+
+    footer {
+        height: 12vw;
+        top: 441vw;
+    }
+
+        footer p {
+            font-size: 3.3vw;
+        }
+
+    .footer1 {
+        font-size: 6vw;
+    }
+    
+
+}
+
+@media screen and (max-width: 414px) {
+    li a {
+        font-size: 5.5vw;
+    }
+
+    .bob-2 a {
+        font-size: 6.3vw;
+        top: 14vw;
+    }
+
+    .hot-dog-4 {
+        left: 28.7%;
+    }
+
+    .individ-banner-2 {
+        top: 13vw;
+        font-size: 5.8vw;
+        left: 24.7%;
+    }
+
+    .individ-banner-3 {
+        top: 13vw;
+        font-size: 5.8vw;
+        left: 47.7%;
+    }
+
+    .individ-banner-1 a {
+        top: 20vw;
+        width: 90%;
+        left: 1%
+    }
+
+    .text-5 {
+        top: 27vw;
+        font-size: 6.8vw;
+    }
+
+    .hot-1 img {
+        top: 48vw;
+        width: 75%;
+        left: 13%;
+    }
+
+    .fon-4 img {
+        top: 31vw;
+    }
+
+    .fon img {
+        top: 168vw;
+    }
+
+    .fon-2 img {
+        top: 305vw;
+    }
+
+    .fon-3 img {
+        position: absolute;
+        display: flex;
+        width: 94%;
+        right: 0;
+        left: 3%;
+        top: 309vw;
+    }
+
+    .fon-5 img {
+        position: absolute;
+        display: flex;
+        width: 94%;
+        right: 0;
+        left: 3%;
+        top: 446vw;
+    }
+
+    .fon-6 img {
+        position: absolute;
+        display: flex;
+        width: 94%;
+        right: 0;
+        left: 3%;
+        top: 583vw;
+    }
+
+    .fon-7 img {
+        position: absolute;
+        display: flex;
+        top: 720vw;
+        width: 94%;
+        right: 0;
+        left: 3%;
+    }
+
+   
+
+    .t-1, .t-2, .t-3, .t-4, .t-5, .t-6, .t-7, .t-8, .t-9, .t-10, .t-11, .t-12, .t-13, .t-14, .t-15, .t-16, .t-17, .t-18 {
+        font-size: 5.8vw;
+        width: 85%;
+        left: 7%;
+    }
+
+    .t-1 {
+        top: 128vw;
+    }
+
+    
+
+    .t-2 {
+        top: 234vw;
+    }
+
+    
+
+    .t-4 {
+        top: 398.5vw;
+    }
+
+   
+    .t-5 {
+        top: 479vw;
+    }
+
+    
+
+    .t-6 {
+        top: 566vw;
+    }
+
+    
+    .t-8 {
+        top: 713vw;
+    }
+    .t-9 {
+        top: 768vw;
+    }
+    footer {
+        height: 20vw;
+        top: 859vw;
+        padding: 4vw 0;
+    }
+
+        footer p {
+            font-size: 7.3vw;
+        }
+
+    .footer1 {
+        font-size: 11vw;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    li a {
+        font-size: 5.6vw;
+    }
+}

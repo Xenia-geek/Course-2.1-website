@@ -1,0 +1,574 @@
+@media screen and (max-width: 768px) {
+    .bob-2 a {
+        font-size: 3.3vw;
+        top: 10vw;
+    }
+
+    .individ-banner-2 {
+        top: 10vw;
+        font-size: 3.5vw;
+        left: 16.7%;
+    }
+
+    .hot-dog-4 {
+        left: 19%;
+    }
+
+    .individ-banner-3 {
+        top: 10vw;
+        font-size: 3.5vw;
+        left: 30%;
+    }
+
+    .hot-dog-5 {
+        left: 33.2%;
+        width: 57%;
+    }
+
+    .text-5 {
+        top: 11vw;
+        font-size: 5.1vw;
+        text-align:center;
+    }
+
+    .hot-1 img {
+        top: 28vw;
+        width: 60%;
+        left: 20%;
+    }
+
+    .t-1, .t-2, .t-3, .t-4, .t-5, .t-6, .t-7, .t-8, .t-9, .t-10, .t-11, .t-12, .t-13, .t-14, .t-15, .t-16, .t-17, .t-18, .t-19, .t-20, .t-21, .t-22, .t-23, .t-24, .t-25, .t-26, .t-27, .t-28, .t-30, .t-31, .t-32, .t-33, .t-34 {
+        font-size: 4.3vw;
+        width: 85%;
+        left: 6.5%;
+        z-index:10;
+    }
+
+    .t-1 {
+        top: 91vw;
+    }
+
+    .t-12 {
+
+        font-size: 8.8vw;
+        top: 134vw;
+        left: 47.7%;
+
+    }
+
+    .t-31 {
+
+        font-size: 5.8vw;
+        top: 141.8vw;
+        left: 23%;
+
+    }
+
+    .t-2 {
+
+        top: 149.6vw;
+
+    }
+
+    .t-32 {
+
+        font-size: 8.8vw;
+        top: 246.8vw;
+        left: 47.7%;
+
+    }
+
+    .t-3 {
+
+        font-size: 5.8vw;
+        top: 254.5vw;
+        left: 34.8%;
+
+    }
+
+    .t-4 {
+
+        
+        top: 262.3vw;
+       
+
+    }
+
+    .t-33 {
+ 
+        font-size: 8.8vw;
+        top: 317vw;
+        left: 47.7%;
+
+    }
+
+    .t-11 {
+        font-size: 5.8vw;
+        top: 324.5vw;
+        left: 34.7%;
+    }
+
+    .t-5 {
+        top: 331.3vw;
+
+    }
+
+    .t-13 {
+
+        font-size: 8.8vw;
+        top: 400vw;
+        left: 47.7%;
+
+    }
+
+
+
+    .t-6 {
+
+        font-size: 5.8vw;
+        top: 407.5vw;
+        left: 10.2%;
+    }
+
+
+
+    .t-7 {
+
+      
+        top: 416.3vw;
+     
+
+    }
+
+    .t-14 {
+
+        font-size: 8.8vw;
+        top: 503vw;
+        left: 47.7%;
+
+    }
+
+
+
+    .t-8 {
+        font-size: 5.8vw;
+        top: 511.5vw;
+        left: 10%;
+
+    }
+
+    .t-9 {      
+        top: 526.3vw;
+    }
+
+    .t-10 {
+      
+        font-size: 8.8vw;
+        top: 569.6vw;
+        left: 47.7%;
+
+    }
+
+    .t-15 {
+        
+        font-size: 5.8vw;
+        top: 577.5vw;
+        left: 12.7%;
+
+    }
+
+    .t-16 {
+       
+    
+        top:585.6vw;
+     
+    }
+
+    .t-17 {
+      
+        font-size: 8.8vw;
+        top: 634.9vw;
+        left: 47.7%;
+     
+    }
+
+
+    .t-18 {
+       
+        font-size: 5.8vw;
+        top: 643vw;
+        left: 11.7%;
+    
+    }
+
+    .t-19 {
+        
+        top: 651vw;
+      
+    }
+    .t-20 {
+       
+        font-size: 8.8vw;
+        top: 728vw;
+        left: 47.7%;
+    
+    }
+
+    .t-21 {
+        
+        font-size: 5.8vw;
+        top: 736vw;
+        left: 10.7%;
+        
+    }
+
+    .t-22 {
+        top: 744.3vw;
+        
+    }
+
+    .t-23 {
+
+        top: 822vw;
+        
+    }
+
+
+    .fon-4 img {
+        top: 15vw;
+    }
+
+    .fon img {
+        top: 152vw;
+    }
+    .fon-9 img {
+        position: absolute;
+        display: flex;
+        width: 93%;
+        right: 0;
+        left: 3%;
+        top: 289vw;
+    }
+
+    .fon-2 img {
+        top: 429vw;
+    }
+
+    .fon-3 img {
+        position: absolute;
+        display: flex;
+        width: 93%;
+        right: 0;
+        left: 3%;
+        top: 563vw;
+    }
+
+    .fon-5 img {
+        position: absolute;
+        display: flex;
+        top: 697vw;
+        width: 93%;
+        right: 0;
+        left: 3%;
+    }
+    .fon-6 img {
+        position: absolute;
+        display: flex;
+        top: 831vw;
+        width: 93%;
+        right: 0;
+        left: 3%;
+    }
+
+    footer {
+        height: 12vw;
+        top: 954vw;
+    }
+
+        footer p {
+            font-size: 3.3vw;
+        }
+
+    .footer1 {
+        font-size: 6vw;
+    }
+    
+}
+
+@media screen and (max-width: 414px) {
+    li a {
+        font-size: 5.5vw;
+    }
+
+    .bob-2 a {
+        font-size: 6.3vw;
+        top: 14vw;
+    }
+
+    .hot-dog-4 {
+        left: 28.7%;
+    }
+
+    .individ-banner-2 {
+        top: 13vw;
+        font-size: 5.8vw;
+        left: 24.7%;
+    }
+
+    .individ-banner-3 {
+        top: 13vw;
+        font-size: 5.8vw;
+        left: 47.7%;
+    }
+
+    .individ-banner-1 a {
+        top: 20vw;
+        width: 90%;
+        left: 1%
+    }
+
+    .text-5 {
+        top: 32vw;
+        font-size: 6.8vw;
+        width: 87%;
+        left: 6%;
+    }
+
+    .hot-1 img {
+        top: 57vw;
+        width: 75%;
+        left: 13%;
+    }
+
+    .t-1, .t-2, .t-3, .t-4, .t-5, .t-6, .t-7, .t-8, .t-9, .t-10, .t-11, .t-12, .t-13, .t-14, .t-15, .t-16, .t-17, .t-18, .t-19, .t-20, .t-21, .t-22, .t-23, .t-24, .t-25, .t-26, .t-27, .t-28, .t-30, .t-31, .t-32, .t-33, .t-34 {
+        font-size: 5.3vw;
+        width: 85%;
+        left: 6.5%;
+        z-index: 12;
+    }
+
+    .t-1 {
+        top: 140vw;
+    }
+
+    .t-12 {
+        font-size: 9.8vw;
+        top: 205vw;
+        left: 47.7%;
+    }
+
+    .t-31 {
+        font-size: 6.8vw;
+        top: 213.8vw;
+        left: 19%;
+    }
+
+    .t-2 {
+        top: 223.6vw;
+    }
+
+    .t-32 {
+        font-size: 9.8vw;
+        top: 374.8vw;
+        left: 47.7%;
+    }
+
+    .t-3 {
+        font-size: 6.8vw;
+        top: 384vw;
+        left: 30.8%;
+    }
+
+    .t-4 {
+        top: 393.3vw;
+    }
+
+    .t-33 {
+        font-size: 9.8vw;
+        top: 477vw;
+        left: 47.7%;
+    }
+
+    .t-11 {
+        font-size: 6.8vw;
+        top: 485.5vw;
+        left: 31.7%;
+    }
+
+    .t-5 {
+        top: 493.3vw;
+    }
+
+    .t-13 {
+        font-size: 9.8vw;
+        top: 602vw;
+        left: 47.7%;
+    }
+
+
+
+    .t-6 {
+        font-size: 6.8vw;
+        top: 610.5vw;
+        left: 7.2%;
+    }
+
+
+
+    .t-7 {
+        top: 627.3vw;
+    }
+
+    .t-14 {
+        font-size: 9.8vw;
+        top: 768vw;
+        left: 47.7%;
+    }
+
+
+
+    .t-8 {
+        font-size: 6.8vw;
+        top: 777vw;
+        left: 10%;
+    }
+
+    .t-9 {
+        top: 794.3vw;
+    }
+
+    .t-10 {
+        font-size: 9.8vw;
+        top: 857.6vw;
+        left: 47.7%;
+    }
+
+    .t-15 {
+        font-size: 6.8vw;
+        top: 866.5vw;
+        left: 9.7%;
+    }
+
+    .t-16 {
+        top: 885vw;
+    }
+
+    .t-17 {
+        font-size: 9.8vw;
+        top: 961vw;
+        left: 47.7%;
+    }
+
+
+    .t-18 {
+        font-size: 6.8vw;
+        top: 970vw;
+        left: 10.7%;
+    }
+
+    .t-19 {
+        top: 980vw;
+    }
+
+    .t-20 {
+        font-size: 9.8vw;
+        top: 1100vw;
+        left: 47.7%;
+    }
+
+    .t-21 {
+        font-size: 6.8vw;
+        top: 1109vw;
+        left: 9.7%;
+    }
+
+    .t-22 {
+        top: 1125.3vw;
+    }
+
+    .t-23 {
+        top: 1253vw;
+    }
+
+
+    .fon-4 img {
+        top: 33vw;
+    }
+
+    .fon img {
+        top: 170vw;
+    }
+
+    .fon-2 img {
+        top: 307vw;
+    }
+    .fon-9 img {
+        top: 440vw;
+    }
+    .fon-3 img {
+        top: 597vw;
+    }
+
+    .fon-5 img {
+        top: 734vw;
+    }
+
+    .fon-6 img {
+        top: 817vw;
+    }
+
+    .fon-7 img {
+        position: absolute;
+        display: flex;
+        top: 956vw;
+        width: 93%;
+        right: 0;
+        left: 3%;
+    }
+    .fon-8 img {
+        position: absolute;
+        display: flex;
+        top: 1093vw;
+        width: 93%;
+        right: 0;
+        left: 3%;
+    }
+    .fon-10 img {
+        position: absolute;
+        display: flex;
+        top: 1230vw;
+        width: 93%;
+        right: 0;
+        left: 3%;
+    }
+    .fon-11 img {
+        position: absolute;
+        display: flex;
+        top: 1273vw;
+        width: 93%;
+        right: 0;
+        left: 3%;
+        z-index:9;
+    }
+    footer {
+        height: 20vw;
+        top: 1402.8vw;
+        padding: 4vw 0;
+    }
+
+        footer p {
+            font-size: 7.3vw;
+        }
+
+    .footer1 {
+        font-size: 11vw;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    li a {
+        font-size: 5.6vw;
+    }
+
+   
+}

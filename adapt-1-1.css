@@ -1,0 +1,509 @@
+@media screen and (max-width: 768px) 
+{
+
+    .top-main-part img 
+    {
+        top: 6vw;
+    }
+
+    .text-1
+    {
+        top: 7vw;
+     }
+
+    .text-4
+    {
+        top:21vw;
+    }
+
+    .text-5
+    {
+        top:116vw;
+        font-size:10vw;
+    }
+
+    .part-with-recipes 
+    {
+        text-align: center;
+    }
+
+    .part-with-recipes img 
+    {
+        top: 126vw;
+        width: 65%;
+        left: 20%;
+    }
+
+    .recipe-name-1 
+    {
+        top: 163vw;
+        font-size: 5vw;
+        width: 65%;
+        left: 20%;
+    }
+
+    .text-of-raw-recipe 
+    {
+        left: 14%;
+        top: 169vw;
+        width: 78%;
+        font-size: 3.7vw;
+    }
+
+    .picture-of-boul 
+    {
+        text-align: center;
+    }
+
+    .picture-of-boul img 
+    {
+        top: 202vw;
+        width: 63%;
+        left: 20%;
+    }
+
+    .recipe-name-2 
+    {
+        top: 239vw;
+        font-size: 5vw;
+        width: 65%;
+        left: 20%;
+    }
+
+    .text-of-boul-recipe 
+    {
+        left: 14%;
+        top: 244.5vw;
+        width: 78%;
+        font-size: 3.7vw;
+    }
+
+
+    .button-to-recipe {
+        padding: 2vw 3vw;
+        font-size: 2.8vw;
+        border-radius: 12vw;
+        top: 284vw;
+    }
+
+        .blog-text 
+    {
+        top: 299vw;
+        font-size: 10vw;
+    }
+
+    .blog img 
+    {
+        top: 307vw;
+        width: 65%;
+        left: 20%;
+    }
+
+    .blog-name-1 
+    {
+        top: 373vw;
+        left: 11%;
+        font-size: 5vw;
+        width: 75%;
+    }
+
+    .text-about-IN 
+    {
+        left: 14%;
+        top: 383vw;
+        width: 75%;
+        font-size: 3.3vw;
+    }
+
+    .blog-2 img 
+    {
+        top: 398vw;
+        width: 65%;
+        left: 20%;
+    }
+
+    .blog-name-2 
+    {
+        top: 464vw;
+        left: 11%;
+        font-size: 5vw;
+        width: 75%;
+    }
+
+    .text-about-fast-food 
+    {
+        left: 14%;
+        top: 471vw;
+        width: 75%;
+        font-size: 3.3vw;
+    }
+
+
+    .button-to-blog {
+        padding: 2vw 3vw;
+        font-size: 2.8vw;
+        border-radius: 12vw;
+        top: 470vw;
+    }
+
+       .about-us img 
+    {
+        top: 495vw;
+        left: 10%;
+    }
+
+    .text-bio 
+    {
+        top:496vw;
+        font-size:6.5vw;
+    }
+    .text-bio-2 
+    {
+        top: 502.7vw;
+        font-size: 4.6vw;
+    }
+    .text-bio-3
+    {
+        top:507.7vw;
+        width:75%;
+        left:14%;
+        font-size:3.8vw;
+    }
+
+    .button-to-about-us {
+        padding: 1.3vw 2.3vw;
+        font-size: 2.5vw;
+        border-radius: 12vw;
+        top: 501vw;
+    }
+
+
+    .cute-avocado img
+    {
+        top:557vw;
+        width:68%;
+        left:16%;
+    }
+
+    .insta img
+    {
+        top:560vw;
+        width:6.6%;
+        left:26.6%;
+    }
+
+    .insta a
+    {
+        top:560vw;
+    }
+
+    .vk img 
+    {
+        top: 570vw;
+        width: 12.3%;
+    }
+
+    .vk a 
+    {
+        top: 570vw;
+    }
+
+    .email img
+    {
+        top: 559.6vw;
+        width: 8.4%;
+    }
+
+    .facebook img 
+    {
+        top: 569.6vw;
+        width: 8%;
+    }
+    footer {
+        height: 12vw;
+        top: 556vw;
+    }
+
+        footer p {
+            font-size: 3.3vw;
+       
+        }
+
+    .footer1 {
+        font-size: 6vw;
+    }
+}
+
+@media screen and (max-width: 414px) 
+{
+    .text-1{
+        font-size:6.2vw;
+        top:10vw;
+    }
+    .text-4{
+        top:23vw;
+        font-size:9.2vw;
+    }
+    .text-2{
+        font-size:7.3vw;
+        top:64vw;
+    }
+    li a {
+        font-size: 5.5vw;
+    }
+
+    .bob-2 a {
+        font-size: 6.3vw;
+        top: 14vw;
+    }
+
+    .hot-dog-4 {
+        left: 28.7%;
+    }
+
+    .individ-banner-2 {
+        top: 13vw;
+        font-size: 5.8vw;
+        left: 24.7%;
+    }
+
+    .individ-banner-3 {
+        top: 13vw;
+        font-size: 5.8vw;
+        left: 54.7%;
+    }
+
+    .individ-banner-1 a {
+        top: 20vw;
+        width: 80%;
+        left: 1%
+    }
+    .text-5{
+        top:23vw;
+        font-size:6.8vw;
+    }
+    .hot-1 img{
+        top:39vw;
+        width:75%;
+        left:13%;
+    }
+    .text-6{
+        top:78vw;
+        font-size:6.8vw;
+    }
+    .hot-3 {
+        top: 36vw;
+        z-index: 9;
+        position: absolute;
+        width: 100%;
+        
+    }
+        .hot-3 h2 {
+            font-size: 5.9vw;
+        }
+        .text-a{
+            top:50vw;
+        }
+        .text-b{
+            top:55vw;
+        }
+        .text-c{
+            top:60vw;
+        }
+        .text-d {
+            top: 65vw;
+        }
+        .text-e {
+            top: 70vw;
+        }
+        .text-f {
+            top: 75vw;
+        }
+    .picture-of-fat-thin-man img {
+        top: 78.5vw;
+        width:65%;
+        left:18%;
+    }
+    .text-3 {
+        font-size: 7.3vw;
+        top:117vw;
+    }
+    .part-with-recipes a{
+        top:133vw;
+    }
+    .part-with-recipes img{
+        top:141vw;
+        width:73%;
+        left:14%;
+    }
+    .picture-of-boul img{
+        top:278vw;
+    }
+    .raw-banner a{
+        top:185vw;
+        font-size:7.4vw;
+        left:17%;
+    }
+    .text-of-raw-recipe{
+        font-size:5.8vw;
+        top:196vw;
+        left:12%;
+    }
+    .text-of-boul-recipe{
+        top:280vw;
+    }
+    .boul-banner a {
+        top: 322vw;
+        font-size: 7.4vw;
+        left: 17%;
+    }
+
+    .button-to-recipe {
+        padding: 4vw 5vw;
+        font-size: 5.8vw;
+        border-radius: 12vw;
+        top: 425vw;
+        left: 30%;
+    }
+   
+
+    .text-of-boul-recipe {
+        font-size: 5.8vw;
+        top: 328vw;
+        left: 12%;
+    }
+    .blog img {
+        top: 448vw;
+    }
+    .blog-2 img{
+        top:563vw;
+    }
+    .intuitive-banner a {
+        top: 515vw;
+        font-size: 7.4vw;
+    }
+    .text-about-IN {
+        top: 527vw;
+        font-size: 5.8vw;
+        left: 12%;
+    }
+    .about-us img {
+        top: 688vw;
+        width:96%;
+        left:2%;
+    }
+    .fast-banner a {
+        top: 632vw;
+        font-size: 7.4vw;
+    }
+    .text-about-fast-food {
+        top: 643vw;
+        font-size: 5.8vw;
+        left: 12%;
+    }
+
+    .button-to-blog {
+        padding: 4vw 5vw;
+        font-size: 5.8vw;
+        border-radius: 12vw;
+        top: 646vw;
+        left: 30%;
+    }
+    
+    .text-bio {
+        top: 689vw;
+        font-size: 6.7vw;
+    }
+    .text-bio-2 {
+        top: 696vw;
+        font-size: 6vw;
+        width: 85%;
+        left: 10%;
+        line-height:4.8vw;
+    }
+    .text-bio-3 {
+        top: 706vw;
+        font-size: 5.8vw;
+        width: 85%;
+        left: 10%;
+        line-height: 4.8vw;
+    }
+
+    .button-to-about-us {
+        padding: 3vw 4vw;
+        font-size: 5.8vw;
+        border-radius: 12vw;
+        top: 720vw;
+        left: 33%;
+        z-index:12;
+    }
+    .button-about-us a {
+        top: 758vw;
+        font-size: 5.8vw;
+        height: 6%;
+        width: 20%;
+    }
+    .cute-avocado img {
+        top: 773vw;
+        width:80%;
+        left:10%;
+    }
+    .insta img{
+        top:775vw;
+        width:9.3%;
+        left:23.6%;
+    }
+    .insta a {
+        top: 771vw;
+    }
+    .vk img {
+        top: 789vw;
+        width: 16%;
+        left:20.5%;
+    }
+    .vk a {
+        top: 789vw;
+    }
+    .email img {
+        top: 774vw;
+        width: 11%;
+        left: 70%;
+    }
+    .email a {
+        top: 774vw;
+    }
+    .facebook img {
+        top: 788vw;
+        width: 10.5%;
+        left: 70%;
+    }
+    .facebook a {
+        top: 788vw;
+    }
+        .top-main-part img {
+        top: 9vw;
+    }
+    footer {
+        height: 20vw;
+        top: 750vw;
+        padding: 4vw 0;
+    }
+
+        footer p {
+            font-size: 7.3vw;
+        }
+
+    .footer1 {
+        font-size: 11vw;
+    }
+}
+
+@media screen and (max-width: 375px) 
+{
+   
+
+    .top-main-part-img 
+    {
+        top: 9vw;
+    }
+}

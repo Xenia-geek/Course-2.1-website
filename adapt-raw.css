@@ -1,0 +1,357 @@
+@media screen and (max-width: 768px) 
+{
+    .bread-crumb a {
+        font-size: 3.5vw;
+        top: 10vw;
+    }
+
+    .arrow-in-the-right {
+        top: 10vw;
+        font-size: 3.5vw;
+        left: 16.7%;
+    }
+
+    .bread-crumb-recipes {
+        left: 19%;
+    }
+
+    .arrow-in-the-right-1 {
+        top: 10vw;
+        font-size: 3.5vw;
+        left: 34.7%;
+    }
+
+    .bread-crumb-raw-1 {
+        left: 37.2%;
+    }
+
+    .header-of-raw {
+        top: 11vw;
+        font-size: 5.5vw;
+    }
+
+    .raw-banner img {
+        top: 23vw;
+        width: 65%;
+        left: 20%;
+    }
+
+    .ingredients-banner {
+        top: 57vw;
+        font-size:4.5vw;
+        left:3%;
+    }
+
+    .ingredients {
+        top: 13vw;
+        z-index: 9;
+        position: absolute;
+        width: 100%;
+    }
+
+        .ingredients h2 {
+            font-size: 3.3vw;
+        }
+
+    .cooking-banner {
+        top: 110vw;
+        font-size: 4.5vw;
+        left: 4%;
+    }
+
+    .stage-1-banner {
+        top: 115vw;
+        font-size: 5.3vw;
+        text-align: center;
+        left: 3%;
+    }
+
+    .text-1 {
+        top: 125vw;
+        font-size: 3.3vw;
+        width: 90%;
+        text-align: justify;
+        left: 5.5%;
+    }
+
+    .stripe-1 {
+        display: none;
+    }
+
+    .stage-2-banner {
+        top: 140vw;
+        font-size: 5.3vw;
+        text-align: center;
+        left: 3%;
+    }
+
+    .text-2 {
+        top: 150vw;
+        font-size: 3.3vw;
+        width: 90%;
+        text-align: justify;
+        left: 5.5%;
+    }
+
+    .stage-3-banner {
+        top: 162vw;
+        font-size: 5.3vw;
+        text-align: center;
+        left: 3%;
+    }
+
+    .text-3 {
+        top: 172vw;
+        font-size: 3.3vw;
+        width: 90%;
+        text-align: justify;
+        left: 5.5%;
+    }
+
+    .stage-4-banner {
+        top: 184vw;
+        font-size: 5.3vw;
+        text-align: center;
+        left: 3%;
+    }
+
+    .text-4 {
+        top: 194vw;
+        font-size: 3.3vw;
+        width: 90%;
+        text-align: justify;
+        left: 5.5%;
+    }
+
+    .stripe-2 {
+        display: none;
+    }
+
+    .stripe-3 {
+        display: none;
+    }
+
+    .stripe-4 {
+        display: none;
+    }
+
+    .vidio iframe {
+        top: 210vw;
+        position: absolute;
+        left: 16%;
+        width: 70vw;
+        height: 42vw;
+    }
+
+    li a{
+        font-size:3.5vw;
+    }
+
+    footer {
+        height: 12vw;
+        top: 249vw;
+    }
+
+        footer p {
+            font-size: 3.3vw;
+        }
+
+    .footer1 {
+        font-size: 6vw;
+    }
+
+}
+@media screen and (max-width: 414px) 
+{
+    li a {
+        font-size: 5.5vw;
+    }
+
+    .bread-crumb a {
+        font-size: 6.3vw;
+        top: 14vw;
+    }
+
+    .bread-crumb-recipes {
+        left: 28.7%;
+    }
+
+    .arrow-in-the-right {
+        top: 13vw;
+        font-size: 5.8vw;
+        left: 24.7%;
+    }
+
+    .arrow-in-the-right-1 {
+        top: 13vw;
+        font-size: 5.8vw;
+        left: 54.7%;
+    }
+
+    .bread-crumb-raw a {
+        top: 20vw;
+        width: 80%;
+        left: 1%
+    }
+
+    .header-of-raw {
+        top: 23vw;
+        font-size: 6.8vw;
+    }
+
+    .raw-banner img {
+        top: 39vw;
+        width: 75%;
+        left: 13%;
+    }
+
+    .ingredients-banner {
+        top: 78vw;
+        font-size: 6.8vw;
+    }
+
+    .ingredients {
+        top: 36vw;
+        z-index: 9;
+        position: absolute;
+        width: 100%;
+    }
+
+        .ingredients h2 {
+            font-size: 5.9vw;
+        }
+
+    .ingredient-1 {
+        top: 50vw;
+    }
+
+    .ingredient-2{
+        top: 55vw;
+    }
+
+    .ingredient-3{
+        top: 60vw;
+    }
+
+    .ingredient-4 {
+        top: 65vw;
+    }
+
+    .ingredient-5 {
+        top: 70vw;
+    }
+
+    .ingredient-6 {
+        top: 75vw;
+    }
+
+    .ingredient-7 {
+        top: 80vw;
+    }
+
+    .ingredient-8 {
+        top: 87vw;
+        line-height: 3.8vw;
+    }
+
+    .ingredient-9 {
+        top: 94vw;
+    }
+
+    .ingredient-10 {
+        top: 99vw;
+    }
+
+    .ingredient-11 {
+        top: 104vw;
+    }
+
+    .ingredient-12 {
+        top: 109vw;
+    }
+
+    .ingredient-13 {
+        top: 114vw;
+    }
+
+    .ingredient-14 {
+        top: 119vw;
+    }
+
+    .ingredient-15{
+        top: 124vw;
+    }
+
+    .cooking-banner {
+        top: 166vw;
+        font-size: 6.8vw;
+    }
+
+    .stage-1-banner {
+        top: 173vw;
+        font-size: 8.3vw;
+    }
+
+    .text-of-stage-1 span {
+        top: 188vw;
+        font-size: 5.8vw;
+    }
+
+    .stage-2-banner {
+        top: 246vw;
+        font-size: 8.3vw;
+    }
+
+    .text-2 {
+        top: 261vw;
+        font-size: 5.8vw;
+    }
+
+    .stage-3-banner {
+        top: 301vw;
+        font-size: 8.3vw;
+    }
+
+    .text-3 {
+        top: 315vw;
+        font-size: 5.8vw;
+    }
+
+    .stage-4-banner {
+        top: 347vw;
+        font-size: 8.3vw;
+    }
+
+    .text-4 {
+        top: 362vw;
+        font-size: 5.8vw;
+    }
+
+    .vidio iframe {
+        top: 410vw;
+        position: absolute;
+        left: 16%;
+        width: 70vw;
+        height: 42vw;
+    }
+
+    footer {
+        height: 20vw;
+        top: 450vw;
+        padding: 5vw 0;
+    }
+
+        footer p {
+            font-size: 7.3vw;
+        }
+
+    .footer1 {
+        font-size: 11vw;
+    }
+}
+
+    @media screen and (max-width: 375px) {
+        li a {
+            font-size: 5.6vw;
+        }
+    }

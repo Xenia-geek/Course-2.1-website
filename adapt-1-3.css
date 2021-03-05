@@ -1,0 +1,291 @@
+@media screen and (max-width: 768px) 
+{
+    .top-main-part img 
+    {
+        top: 8vw;
+    }
+
+    .text-4
+    {
+        top:28.3vw;
+        font-size:9vw;
+    }
+
+    .text-5 
+    {
+        top: 57vw;
+        font-size: 10vw;
+    }
+
+    .blog img 
+    {
+        top: 80vw;
+        width: 55%;
+        left: 23%;
+    }
+
+    .IF-banner a 
+    {
+        top: 136vw;
+        left: 11%;
+        font-size: 5vw;
+        width: 75%;
+    }
+
+    .text-of-IN 
+    {
+        left: 11%;
+        top: 147vw;
+        width: 78%;
+        font-size: 3.7vw;
+    }
+
+    .pricture-of-fast-food img 
+    {
+        top: 165vw;
+    }
+
+    .fast-food-banner a 
+    {
+        top: 221vw;
+        left: 11%;
+        font-size: 5vw;
+        width: 75%;
+    }
+
+    .text-of-fast-food 
+    {
+        left: 11%;
+        top: 228vw;
+        width: 78%;
+        font-size: 3.7vw;
+    }
+
+    .picture-of-vegan-meat img 
+    {
+        width: 55%;
+        left: 23%;
+        top: 246vw;
+    }
+
+    .VeganVSMeat-banner-1 a 
+    {
+        line-height: 4.6vw;
+        top: 304vw;
+        left: 11%;
+        font-size: 5vw;
+        width: 75%;
+    }
+
+    .text-of-vegan-meat 
+    {
+        left: 11%;
+        top: 319vw;
+        width: 78%;
+        font-size: 3.7vw;
+    }
+
+    .picture-of-shpinat img 
+    {
+        top: 338vw;
+    }
+
+    .Shpinat-banner-1 a 
+    {
+        line-height: 4.6vw;
+        top: 396vw;
+        left: 11%;
+        font-size: 5vw;
+        width: 75%;
+    }
+
+    .text-of-shpinat 
+    {
+        left: 11%;
+        top: 406vw;
+        width: 78%;
+        font-size: 3.7vw;
+    }
+
+    .picture-of-drinks img 
+    {
+        width: 55%;
+        left: 23%;
+        top: 425vw;
+    }
+
+    .Drinks-banner-2 a 
+    {
+        line-height: 4.6vw;
+        top: 483vw;
+        left: 11%;
+        font-size: 5vw;
+        width: 75%;
+    }
+
+    .text-of-drinks 
+    {
+        left: 11%;
+        top: 493vw;
+        width: 78%;
+        font-size: 3.7vw;
+    }
+
+    .picture-of-len img 
+    {
+        top: 516vw;
+    }
+
+    .len-banner-2 a 
+    {
+        line-height: 4.6vw;
+        top: 571vw;
+        left: 11%;
+        font-size: 5vw;
+        width: 75%;
+    }
+
+    .text-of-len 
+    {
+        left: 11%;
+        top: 581vw;
+        width: 78%;
+        font-size: 3.7vw;
+    }
+
+    .article-topic img 
+    {
+        top: 591vw;
+        width: 30%;
+        left: 38%;
+    }
+
+    footer {
+        height: 12vw;
+        top: 620vw;
+    }
+
+        footer p {
+            font-size: 3.3vw;
+        }
+
+    .footer1 {
+        font-size: 6vw;
+    }
+}
+
+@media screen and (max-width: 414px) 
+{
+    .top-main-part img 
+    {
+        top: 11vw;
+    }
+
+    .text-4 
+    {
+        top: 29.9vw;
+    }
+
+    .text-5 
+    {
+        top: 59vw;
+        font-size: 11vw;
+    }
+    .blog img{
+        width:66%;
+        left:17%;
+    }
+    .IF-banner a{
+        top:148vw;
+        font-size:6.8vw;
+    }
+    .text-of-IN{
+        top:158vw;
+        font-size:5.8vw;
+    }
+    .pricture-of-fast-food img {
+        top: 196vw;
+    }
+    .fast-food-banner a {
+        top: 266vw;
+        font-size: 6.8vw;
+    }
+    .text-of-fast-food {
+        top: 276vw;
+        font-size: 5.8vw;
+    }
+    .picture-of-vegan-meat img {
+        width: 66%;
+        left: 17%;
+        top: 307vw;
+    }
+    .VeganVSMeat-banner-1 a {
+        top: 375vw;
+        font-size: 6.8vw;
+    }
+    .text-of-vegan-meat {
+        top: 390vw;
+        font-size: 5.8vw;
+    }
+    .picture-of-shpinat img {
+        top: 427vw;
+    }
+    .Shpinat-banner-1 a {
+        top: 496vw;
+        font-size: 6.8vw;
+    }
+    .text-of-shpinat {
+        top: 505vw;
+        font-size: 5.8vw;
+    }
+    .picture-of-drinks img {
+        width: 66%;
+        left: 17%;
+        top: 545vw;
+    }
+    .Drinks-banner-2 a {
+        top: 613vw;
+        font-size: 6.8vw;
+    }
+    .text-of-drinks {
+        top: 627vw;
+        font-size: 5.8vw;
+    }
+    .picture-of-len img {
+        top: 672vw;
+    }
+    .len-banner-2 a {
+        top: 741vw;
+        font-size: 6.8vw;
+    }
+    .text-of-len {
+        top: 752vw;
+        font-size: 5.8vw;
+    }
+    .article-topic img, a {
+        top: 778vw;
+        width: 69%;
+        left: 17%;
+    }
+    footer {
+        height: 20vw;
+        top: 848vw;
+        padding: 5vw 0;
+    }
+
+        footer p {
+            font-size: 7.3vw;
+        }
+
+    .footer1 {
+        font-size: 11vw;
+    }
+}
+
+@media screen and (max-width: 375px)
+{
+    .top-main-part img 
+    {
+        top: 11vw;
+    }
+}

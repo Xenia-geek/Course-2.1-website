@@ -1,0 +1,365 @@
+    body
+    {
+        overflow-x: hidden;
+        background:#FFFFFF;
+    }
+
+    .scrollup
+    {
+        width:40px;
+        height:40px;
+        opacity:0.3;
+        position:fixed;
+        bottom:7vw;
+        right:7vw;
+        display:none;
+        text-indent:-9999px;
+        background: url('arrow.png') no-repeat;
+        z-index:10;
+    }
+
+    .arrow a:hover
+    { 
+        background: url('arrow.png') no-repeat;
+    }
+
+    .top-main-part 
+    {
+        position: relative;
+        width: 100%;
+    }
+
+    .top-main-part img 
+    {
+        position: absolute;
+        width: 100%;
+        left: 0;
+        right: 0;
+    }
+
+    .top-text-of-the-main-page 
+    {
+        text-align: left;
+    }
+
+    .text-4 
+    {
+        position:absolute;
+        font-family:MV Boli;  
+        width:100%; 
+        color: #000000;
+        font-size: 8vw;
+        top:20vw;
+    }
+
+    .blog 
+    {
+        text-align: center;
+    }
+
+    .blog img 
+    {
+        position: absolute;
+        width: 35%;
+        left: 0;
+        right: 0;
+        left: 11%;
+        top: 71vw;
+        z-index: 9;
+    }
+
+    .pricture-of-fast-food img 
+    {
+        position: absolute;
+        width: 35%;
+        left: 0;
+        right: 0;
+        left: 59%;
+        top: 71vw;
+        z-index: 9;
+    }
+
+   .text-5 
+   {
+     position:absolute;
+     font-family:Monotype Corsiva; 
+     width:100%; 
+     color:#556B2F; 
+     font-size:7vw; 
+     top:57vw;
+   }
+
+   .IF-banner a:hover
+   {
+       background:#FFFFFF; 
+       color: #000000;
+   }
+
+   .fast-food-banner a:hover
+   {
+       background:#FFFFFF; 
+       color: #000000;
+   }
+
+    .article-name-1 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 46%;
+        color: #006400;
+        left: 2.7%;
+        top: 106vw;
+        font-size: 2.6vw;
+        text-align: center;
+    }
+
+    .article-name-2 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 45%;
+        color: #006400;
+        left: 52%;
+        top: 106vw;
+        font-size: 2.6vw;
+        text-align: center;
+    }
+
+    .text-of-IN 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 43%;
+        color: #2E8B57;
+        left: 5%;
+        font-size: 1.6vw;
+        text-align: justify;
+        top: 111vw;
+        z-index: 9;
+    }
+
+    .text-of-fast-food 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 45%;
+        color: #2E8B57;
+        left: 52%;
+        top: 111vw;
+        font-size: 1.6vw;
+        text-align: justify;
+        z-index: 9;
+    }
+
+    .picture-of-vegan-meat 
+    {
+        text-align: center;
+    }
+
+    .picture-of-vegan-meat img 
+    {
+        position: absolute;
+        width: 35%;
+        left: 0;
+        right: 0;
+        left: 11%;
+        top: 118vw;
+        z-index: 9;
+    }
+
+    .picture-of-shpinat img 
+    {
+        position: absolute;
+        width: 35%;
+        right: 0;
+        left: 59%;
+        top: 118vw;
+        z-index: 9;
+    }
+   
+   .VeganVSMeat-banner-1 a:hover
+   {
+       background:#FFFFFF; 
+       color: #000000;
+   }
+
+   .Shpinat-banner-1 a:hover
+   {
+       background:#FFFFFF; 
+       color: #000000;
+   }
+
+    .article-name-3 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 48%;
+        color: #006400;
+        left: 2.1%;
+        top: 154vw;
+        font-size: 2.6vw;
+        text-align: center;
+        line-height: 2.3vw;
+    }
+
+    .article-name-4 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 45%;
+        color: #006400;
+        left: 52%;
+        top: 154vw;
+        font-size: 2.6vw;
+        text-align: center;
+        line-height: 2.3vw;
+    }
+
+    .text-of-vegan-meat 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 43%;
+        color: #2E8B57;
+        left: 5%;
+        font-size: 1.6vw;
+        text-align: justify;
+        top: 160vw;
+        z-index: 9;
+    }
+
+    .text-of-shpinat 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 45%;
+        color: #2E8B57;
+        left: 52%;
+        top: 160vw;
+        font-size: 1.6vw;
+        text-align: justify;
+        z-index: 9;
+    }
+
+    .picture-of-drinks 
+    {
+        text-align: center;
+    }
+
+    .picture-of-drinks img 
+    {
+        position: absolute;
+        width: 35%;
+        left: 0;
+        right: 0;
+        left: 11%;
+        top: 168vw;
+        z-index: 9;
+    }
+
+    .picture-of-len img 
+    {
+        position: absolute;
+        width: 35%;
+        right: 0;
+        left: 59%;
+        top: 168vw;
+        z-index: 9;
+    }
+   
+   .Drinks-banner-2 a:hover
+   {
+       background:#FFFFFF; 
+       color: #000000;
+   }
+
+   .len-banner-2 a:hover
+   {
+       background:#FFFFFF; 
+       color: #000000;
+   }
+
+    .article-name-5 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 48%;
+        color: #006400;
+        left: 2.1%;
+        top: 204vw;
+        font-size: 2.6vw;
+        text-align: center;
+        line-height: 2.3vw;
+    }
+
+    .article-name-6 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 45%;
+        color: #006400;
+        left: 52%;
+        top: 204vw;
+        font-size: 2.6vw;
+        text-align: center;
+        line-height: 2.3vw;
+    }
+
+    .text-of-drinks 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 45%;
+        color: #2E8B57;
+        left: 3%;
+        font-size: 1.6vw;
+        text-align: justify;
+        top: 210vw;
+        z-index: 9;
+    }
+
+    .text-of-len 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 45%;
+        color: #2E8B57;
+        left: 52%;
+        top: 210vw;
+        font-size: 1.6vw;
+        text-align: justify;
+        z-index: 9;
+    }
+
+    .article-topic img
+    {
+        width:15%; 
+        top:215vw; 
+        position:absolute; 
+        left:41%;
+        z-index:9;
+    }
+
+footer {
+    height: 8vw;
+    background: url(a.jpg);
+    opacity: 0.7;
+    width: 98%;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 3vw 0;
+    position: relative;
+    top: 224vw;
+}
+
+    footer p {
+        font-size: 2.3vw;
+        text-align: center;
+        font-family: Monotype Corsiva;
+        margin-top: 0.1em; /* Отступ сверху */
+        margin-bottom: 0.1em; /* Отступ снизу */
+    }
+
+.footer1 {
+    font-size: 5vw;
+}

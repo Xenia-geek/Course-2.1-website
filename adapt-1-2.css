@@ -1,0 +1,337 @@
+@media screen and (max-width: 768px) 
+{
+    .top-main-part img 
+    {
+        top: 8vw;
+    }
+
+    .text-4
+    {
+        top:25vw;
+    }
+
+    .text-5 
+    {
+        top: 70vw;
+        font-size: 10vw;
+    }
+
+    .recipes 
+    {
+        text-align: center;
+    }
+
+    .recipes img 
+    {
+        top: 90vw;
+        width: 65%;
+        left: 19%;
+    }
+
+    .recipe-name-1 
+    {
+        top: 127vw;
+        font-size: 5vw;
+        width: 65%;
+        left: 19%;
+    }
+
+    .text-of-raw-recipe 
+    {
+        left: 12%;
+        top: 133vw;
+        width: 78%;
+        font-size: 3.7vw;
+    }
+
+    .picture-of-boul-recipe img 
+    {
+        top: 167vw;
+    }
+
+    .recipe-name-2 
+    {
+        top: 203.3vw;
+        font-size: 5vw;
+        width: 65%;
+        left: 19%;
+    }
+
+    .text-of-boul-recipe 
+    {
+        left: 12%;
+        top: 208vw;
+        width: 78%;
+        font-size: 3.7vw;
+    }
+
+    .picture-of-soup-recipe img 
+    {
+        top: 253.5vw;
+        width: 65%;
+        left: 19%;
+    }
+
+    .recipe-name-3 
+    {
+        top: 292vw;
+        font-size: 5vw;
+        width: 65%;
+        left: 19%;
+    }
+
+    .text-of-raa-soup-recipe 
+    {
+        left: 12%;
+        top: 298vw;
+        width: 78%;
+        font-size: 3.7vw;
+    }
+
+    .picture-of-cake-recipe img 
+    {
+        top: 311vw;
+    }
+
+    .recipe-name-4 
+    {
+        top: 349vw;
+        font-size: 5vw;
+        width: 65%;
+        left: 19%;
+    }
+
+    .text-of-cake-recipe 
+    {
+        left: 12%;
+        top: 355vw;
+        width: 78%;
+        font-size: 3.7vw;
+    }
+
+    .picture-of-cocoa-recipe img 
+    {
+        top: 384vw;
+        width: 65%;
+        left: 19%;
+    }
+
+    .recipe-name-5 
+    {
+        top: 423vw;
+        font-size: 5vw;
+        width: 65%;
+        left: 19%;
+    }
+
+    .text-of-cocoa-recipe 
+    {
+        left: 12%;
+        top: 429vw;
+        width: 78%;
+        font-size: 3.7vw;
+    }
+
+    .picture-of-donut-recipe img 
+    {
+        top: 462vw;
+    }
+
+    .recipe-name-6 
+    {
+        top: 501vw;
+        font-size: 5vw;
+        width: 65%;
+        left: 19%;
+    }
+
+    .text-of-donut-recipe 
+    {
+        left: 12%;
+        top: 507vw;
+        width: 78%;
+        font-size: 3.7vw;
+    }
+
+    .recipe-theme img
+    {
+        top:542vw;
+        width:30%;
+        left:38%;
+    }
+    footer {
+        height: 12vw;
+        top: 570vw;
+    }
+
+        footer p {
+            font-size: 3.3vw;
+        }
+
+    .footer1 {
+        font-size: 6vw;
+    }
+}
+@media screen and (max-width: 414px) 
+{
+    .top-main-part img 
+    {
+        top: 11vw;
+    }
+
+    .text-4 
+    {
+        top: 28vw;
+        font-size: 9.5vw;
+    }
+
+    .text-5 
+    {
+        top: 73vw;
+        font-size:9.7vw;
+    }
+
+    .recipes img 
+    {
+        top: 93vw;
+        width: 75%;
+        left: 14%;
+    }
+
+    .recipe-name-1 
+    {
+        top: 137vw;
+        font-size: 6.8vw;
+        width: 65%;
+        left: 19%;
+    }
+
+    .text-of-raw-recipe 
+    {
+        left: 12%;
+        top: 147vw;
+        width: 78%;
+        font-size: 5.8vw;
+    }
+
+    .picture-of-boul-recipe img 
+    {
+        top: 231vw;
+    }
+    .boul-banner a {
+        top: 278vw;
+        font-size: 6.8vw;
+        width: 65%;
+        left: 19%;
+    }
+
+    .recipe-name-2 {
+        top: 243vw;
+        font-size: 6.8vw;
+        width: 65%;
+        left: 19%;
+    }
+
+    .text-of-boul-recipe 
+    {
+        left: 12%;
+        top: 285vw;
+        width: 78%;
+        font-size: 5.8vw;
+    }
+    .picture-of-soup-recipe img {
+        top: 388vw;
+        width: 75%;
+        left: 14%;
+    }
+    .raa-banner-1 a {
+        top: 433vw;
+        font-size: 6.8vw;
+        width: 65%;
+        left: 19%;
+    }
+    .text-of-raa-soup-recipe {
+        left: 12%;
+        top: 440vw;
+        width: 78%;
+        font-size: 5.8vw;
+    }
+    .picture-of-cake-recipe img {
+        top: 465vw;
+        width: 75%;
+        left: 14%;
+    }
+    .text-of-cake-recipe {
+        left: 12%;
+        top: 516vw;
+        width: 78%;
+        font-size: 5.8vw;
+    }
+    .cake-banner-1 a {
+        top: 510vw;
+        font-size: 6.8vw;
+        width: 65%;
+        left: 19%;
+    }
+
+    .picture-of-cocoa-recipe img {
+        top: 586vw;
+        width: 75%;
+        left: 14%;
+    }
+    .text-of-cocoa-recipe {
+        left: 12%;
+        top: 640vw;
+        width: 78%;
+        font-size: 5.8vw;
+    }
+    .cacao-banner-2 a {
+        top: 632vw;
+        font-size: 6.8vw;
+        width: 65%;
+        left: 19%;
+    }
+    .picture-of-donut-recipe img {
+        top: 711vw;
+        width: 75%;
+        left: 14%;
+    }
+    .text-of-donut-recipe {
+        left: 12%;
+        top: 764vw;
+        width: 78%;
+        font-size: 5.8vw;
+    }
+    .donut-banner-2 a {
+        top: 756vw;
+        font-size: 6.8vw;
+        width: 65%;
+        left: 19%;
+    }
+
+    .recipe-theme img {
+        top: 851vw;
+        width: 69%;
+        left: 17%;
+    }
+    footer {
+        height: 20vw;
+        top: 913vw;
+        padding: 5vw 0;
+    }
+
+        footer p {
+            font-size: 7.3vw;
+        }
+
+    .footer1 {
+        font-size: 11vw;
+    }
+}
+@media screen and (max-width: 375px) 
+{
+    .top-main-part img 
+    {
+        top: 11vw;
+    }
+}

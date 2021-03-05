@@ -1,0 +1,250 @@
+@media screen and (max-width: 768px) {
+    .bob-2 a {
+        font-size: 3.5vw;
+        top: 10vw;
+    }
+
+    .individ-banner-2 {
+        top: 10vw;
+        font-size: 3.5vw;
+        left: 16.7%;
+    }
+
+    .hot-dog-4 {
+        left: 19%;
+    }
+
+    .individ-banner-3 {
+        top: 10vw;
+        font-size: 3.5vw;
+        left: 34.7%;
+    }
+
+    .hot-dog-5 {
+        left: 37.2%;
+    }
+
+    .text-5 {
+        top: 11vw;
+        font-size: 5.5vw;
+    }
+
+    .hot-1 img {
+        top: 23vw;
+        width: 65%;
+        left: 20%;
+    }
+
+    .text-6 {
+        top: 57vw;
+        font-size: 4.5vw;
+        left: 3%;
+    }
+    .hot-3 {
+        top: 13vw;
+        z-index: 9;
+        position: absolute;
+        width: 100%;
+    }
+
+        .hot-3 h2 {
+            font-size: 3.3vw;
+        }
+
+    .text-7 {
+        top: 83vw;
+        font-size: 4.5vw;
+        left: 4%;
+    }
+
+    .text-8 {
+        top: 88vw;
+        font-size: 5.3vw;
+        text-align: center;
+        left: 3%;
+    }
+
+    .text-9 {
+        top: 98vw;
+        font-size: 3.3vw;
+        width: 90%;
+        text-align: justify;
+        left: 5.5%;
+    }
+    .text-10 {
+        top: 113vw;
+        font-size: 5.3vw;
+        text-align: center;
+        left: 3%;
+    }
+
+    .text-11 {
+        top: 123vw;
+        font-size: 3.3vw;
+        width: 90%;
+        text-align: justify;
+        left: 5.5%;
+    }
+    .tot{
+        display:none;
+    }
+    .tot-1 {
+        display: none;
+    }
+    .hot-13 iframe {
+        top: 138vw;
+        position: absolute;
+        left: 16%;
+        width: 70vw;
+        height: 42vw;
+    }
+
+    footer {
+        height: 12vw;
+        top: 177vw;
+    }
+
+        footer p {
+            font-size: 3.3vw;
+        }
+
+    .footer1 {
+        font-size: 6vw;
+    }
+
+}
+@media screen and (max-width: 414px) {
+    li a {
+        font-size: 5.5vw;
+    }
+
+    .bob-2 a {
+        font-size: 6.3vw;
+        top: 14vw;
+    }
+
+    .hot-dog-4 {
+        left: 28.7%;
+    }
+
+    .individ-banner-2 {
+        top: 13vw;
+        font-size: 5.8vw;
+        left: 24.7%;
+    }
+
+    .individ-banner-3 {
+        top: 13vw;
+        font-size: 5.8vw;
+        left: 54.7%;
+    }
+
+    .individ-banner-1 a {
+        top: 20vw;
+        width: 80%;
+        left: 1%
+    }
+
+    .text-5 {
+        top: 23vw;
+        font-size: 6.8vw;
+    }
+
+    .hot-1 img {
+        top: 39vw;
+        width: 75%;
+        left: 13%;
+    }
+
+    .text-6 {
+        top: 78vw;
+        font-size: 6.8vw;
+    }
+
+    .hot-3 {
+        top: 36vw;
+        z-index: 9;
+        position: absolute;
+        width: 100%;
+    }
+
+        .hot-3 h2 {
+            font-size: 5.9vw;
+        }
+
+    .text-a {
+        top: 50vw;
+    }
+
+    .text-b {
+        top: 55vw;
+    }
+
+    .text-c {
+        top: 60vw;
+    }
+
+    .text-d {
+        top: 65vw;
+    }
+
+    .text-e {
+        top: 70vw;
+    }
+
+    .text-f {
+        top: 75vw;
+    }
+    .text-7 {
+        top: 120vw;
+        font-size: 6.8vw;
+    }
+
+    .text-8 {
+        top: 126vw;
+        font-size: 8.3vw;
+    }
+
+    .hot-6 span {
+        top: 141vw;
+        font-size: 5.8vw;
+    }
+    .text-10 {
+        top: 186vw;
+        font-size: 8.3vw;
+    }
+
+    .text-11 {
+        top: 201vw;
+        font-size: 5.8vw;
+    }
+    .hot-13 iframe {
+        top: 244vw;
+        position: absolute;
+        left: 16%;
+        width: 70vw;
+        height: 42vw;
+    }
+
+    footer {
+        height: 20vw;
+        top: 285vw;
+        padding: 5vw 0;
+    }
+
+        footer p {
+            font-size: 7.3vw;
+        }
+
+    .footer1 {
+        font-size: 11vw;
+    }
+    }
+
+    @media screen and (max-width: 375px) {
+        li a {
+            font-size: 5.6vw;
+        }
+    }
+
+}

@@ -1,0 +1,230 @@
+@media screen and (max-width: 768px) 
+{
+    .top-main-part img 
+    {
+        top: 8vw;
+    }
+
+    .text-4 
+    {
+        top: 24vw;
+    }
+
+    .text-5 
+    {
+        top: 57vw;
+        font-size: 9.5vw;
+    }
+
+    .about-us img 
+    {
+        top: 70vw;
+        width: 30%;
+        left: 5%;
+    }
+
+    .text-of-page-1 
+    {
+        top: 77vw;
+        font-size: 4.5vw;
+        width: 65%;
+    }
+
+    .text-of-page-2 
+    {
+        top: 83vw;
+        font-size: 3.3vw;
+        width: 50%;
+        left: 37%;
+    }
+
+    .text-of-page-3 
+    {
+        top: 102vw;
+        font-size: 4.5vw;
+        width: 70%;
+        left: 14%;
+    }
+
+    .text-of-page-4 
+    {
+        top: 108vw;
+        font-size: 3.4vw;
+        width: 77%;
+        left: 14%;
+    }
+
+    .picture-of-avocado img 
+    {
+        top: 182vw;
+        width: 68%;
+        left: 16%;
+    }
+
+    .insta img 
+    {
+        top: 185vw;
+        width: 6.6%;
+        left:27%;
+    }
+
+    .insta a 
+    {
+        top: 185vw;
+    
+    }
+
+    .vk img 
+    {
+    top: 195vw;
+    width: 12.3%;
+    }
+
+    .vk a 
+    {
+    top: 195vw;
+    }
+
+    .email img 
+    {
+    top: 184.6vw;
+    width: 8.4%;
+    }
+
+    .facebook img 
+    {
+    top: 194.6vw;
+    width: 7.8%;
+    }
+
+    footer {
+        height: 12vw;
+        top: 204vw;
+    }
+
+        footer p {
+            font-size: 3.3vw;
+        }
+
+    .footer1 {
+        font-size: 6vw;
+    }
+ }
+
+@media screen and (max-width: 414px) {
+    .top-main-part img {
+        top: 11vw;
+    }
+
+    .text-4 {
+        top: 23vw;
+        font-size: 12vw;
+    }
+
+    .text-5 {
+        top: 60vw;
+        font-size: 11vw;
+    }
+
+    .text-of-page-1 {
+        top: 82vw;
+        font-size: 6.3vw;
+        left: 10%;
+        width: 85%;
+    }
+
+    .text-of-page-2 {
+        top: 89vw;
+        font-size: 5.8vw;
+        width: 75%;
+        left: 14%;
+    }
+
+    .about-us img {
+        top: 116vw;
+        width: 40%;
+        left: 32%;
+    }
+
+    .text-of-page-3 {
+        top: 158vw;
+        font-size: 6.8vw;
+        left: 44%;
+        width: 85%;
+    }
+
+    .text-of-page-4 {
+        top: 165vw;
+        font-size: 5.8vw;
+        width: 85%;
+        left: 8%;
+    }
+
+    .picture-of-avocado img {
+        top: 332vw;
+        width: 80%;
+        left: 10%;
+    }
+
+    .insta img {
+        top: 334vw;
+        width: 9.6%;
+        left: 24%;
+    }
+
+    .insta a {
+        top: 330vw;
+    }
+
+    .vk img {
+        top: 348vw;
+        width: 16%;
+        left: 20.5%;
+    }
+
+    .vk a {
+        top: 348vw;
+    }
+
+    .email img {
+        top: 333vw;
+        width: 11%;
+        left: 70%;
+    }
+
+    .email a {
+        top: 333vw;
+    }
+
+    .facebook img {
+        top: 347.5vw;
+        width: 10.6%;
+        left: 70%;
+    }
+
+    .facebook a {
+        top: 347.5vw;
+    }
+
+    footer {
+        height: 20vw;
+        top: 358vw;
+        padding: 5vw 0;
+    }
+
+        footer p {
+            font-size: 7.3vw;
+        }
+
+    .footer1 {
+        font-size: 11vw;
+    }
+}
+
+@media screen and (max-width: 375px) 
+{
+    .top-main-part img 
+    {
+        top: 11vw;
+    }
+}

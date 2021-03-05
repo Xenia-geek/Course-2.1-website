@@ -1,0 +1,362 @@
+    body
+    {
+        overflow-x: hidden;
+        background:#FFFFFF;
+    }
+
+
+    .scrollup
+    {
+        width:40px;
+        height:40px;
+        opacity:0.3;
+        position:fixed;
+        bottom:7vw;
+        right:7vw;
+        display:none;
+        text-indent:-9999px;
+        background: url('arrow.png') no-repeat;
+        z-index:10;
+    }
+
+    .arrow a:hover
+    { 
+        background: url('arrow.png') no-repeat;
+    }
+
+    .top-main-part 
+    {
+        position: relative;
+        width: 100%;
+    }
+
+    .top-main-part img 
+    {
+        position: absolute;
+        width: 100%;
+        left: 0;
+        right: 0;
+    }
+
+    .top-text-of-the-main-page 
+    {
+        text-align: center;
+    }
+
+    .text-4 
+    {
+        position:absolute;
+        font-family:MV Boli;  
+        width:100%; 
+        color: #000000;
+        font-size: 8vw;
+        top:20vw;
+    }
+
+    .recipes 
+    {
+        text-align: center;
+    }
+
+    .recipes img 
+    {
+        position: absolute;
+        width: 45%;
+        left: 0;
+        right: 0;
+        left: 3%;
+        top: 85vw;
+        z-index: 9;
+    }
+
+    .picture-of-boul-recipe img 
+    {
+        position: absolute;
+        width: 45%;
+        right: 0;
+        left: 52%;
+        top: 85vw;
+        z-index: 9;
+    }
+
+   .text-5 
+   {
+        position:absolute;
+        font-family:Monotype Corsiva; 
+        width:100%; 
+        color:#556B2F; 
+        font-size:7vw; 
+        top:70vw;
+   }
+
+   .raw-banner a:hover
+   {
+       background:#FFFFFF; 
+       color: #000000;
+   }
+
+   .boul-banner a:hover
+   {
+       background:#FFFFFF; 
+       color: #000000;
+   }
+
+    .recipe-name-1 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 45%;
+        color: #006400;
+        left: 3%;
+        top: 111vw;
+        font-size: 3vw;
+        text-align: center;
+    }
+
+    .recipe-name-2 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 45%;
+        color: #006400;
+        left: 52%;
+        top: 111vw;
+        font-size: 3vw;
+        text-align: center;
+    }
+
+    .text-of-raw-recipe 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 45%;
+        color: #2E8B57;
+        left: 3%;
+        font-size: 1.6vw;
+        text-align: justify;
+        top: 116vw;
+        z-index: 9;
+    }
+
+    .text-of-boul-recipe 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 45%;
+        color: #2E8B57;
+        left: 52%;
+        top: 116vw;
+        font-size: 1.6vw;
+        text-align: justify;
+        z-index: 9;
+    }
+
+    .picture-of-soup-recipe 
+    {
+        text-align: center;
+    }
+
+    .picture-of-soup-recipe img 
+    {
+        position: absolute;
+        width: 45%;
+        left: 0;
+        right: 0;
+        left: 3%;
+        top: 132vw;
+        z-index: 9;
+    }
+
+    .picture-of-cake-recipe img 
+    {
+        position: absolute;
+        width: 45%;
+        right: 0;
+        left: 52%;
+        top: 132vw;
+        z-index: 9;
+    }
+   
+   .raa-banner-1 a:hover
+   {
+       background:#FFFFFF; 
+       color: #000000;
+   }
+
+   .cake-banner-1 a:hover
+   {
+       background:#FFFFFF; 
+       color: #000000;
+   }
+
+    .recipe-name-3 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 45%;
+        color: #006400;
+        left: 3%;
+        top: 158vw;
+        font-size: 3vw;
+        text-align: center;
+    }
+
+    .recipe-name-4 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 45%;
+        color: #006400;
+        left: 52%;
+        top: 158vw;
+        font-size: 3vw;
+        text-align: center;
+    }
+
+    .text-of-raa-soup-recipe 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 45%;
+        color: #2E8B57;
+        left: 3%;
+        font-size: 1.6vw;
+        text-align: justify;
+        top: 163vw;
+        z-index: 9;
+    }
+
+    .text-of-cake-recipe 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 45%;
+        color: #2E8B57;
+        left: 52%;
+        top: 163vw;
+        font-size: 1.6vw;
+        text-align: justify;
+        z-index: 9;
+    }
+
+    .picture-of-cocoa-recipe 
+    {
+        text-align: center;
+    }
+
+    .picture-of-cocoa-recipe img 
+    {
+        position: absolute;
+        width: 45%;
+        left: 0;
+        right: 0;
+        left: 3%;
+        top: 175vw;
+        z-index: 9;
+    }
+
+    .picture-of-donut-recipe img 
+    {
+        position: absolute;
+        width: 45%;
+        left: 0;
+        right: 0;
+        left: 52%;
+        top: 175vw;
+        z-index: 9;
+    }
+   
+   .cacao-banner-2 a:hover
+   {
+       background:#FFFFFF; 
+       color: #000000;
+   }
+
+   .donut-banner-2 a:hover
+   {
+       background:#FFFFFF; 
+       color: #000000;
+   }
+
+    .recipe-name-5 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 45%;
+        color: #006400;
+        left: 3%;
+        top: 201vw;
+        font-size: 3vw;
+        text-align: center;
+    }
+
+    .recipe-name-6 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 45%;
+        color: #006400;
+        left: 52%;
+        top: 201vw;
+        font-size: 3vw;
+        text-align: center;
+    }
+
+    .text-of-cocoa-recipe 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 45%;
+        color: #2E8B57;
+        left: 3%;
+        font-size: 1.6vw;
+        text-align: justify;
+        top: 206vw;
+        z-index: 9;
+    }
+
+    .text-of-donut-recipe 
+    {
+        position: absolute;
+        font-family: Monotype Corsiva;
+        width: 45%;
+        color: #2E8B57;
+        left: 52%;
+        top: 206vw;
+        font-size: 1.6vw;
+        text-align: justify;
+        z-index: 9;
+    }
+
+    .recipe-theme img
+    {
+        width:15%; 
+        top:218vw; 
+        position:absolute; 
+        left:41%;
+        z-index:9;
+    }
+footer {
+    height: 8vw;
+    background: url(a.jpg);
+    opacity: 0.7;
+    width: 98%;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 3vw 0;
+    position: relative;
+    top: 227vw;
+}
+
+    footer p {
+        font-size: 2.3vw;
+        text-align: center;
+        font-family: Monotype Corsiva;
+        margin-top: 0.1em; /* Отступ сверху */
+        margin-bottom: 0.1em; /* Отступ снизу */
+    }
+
+.footer1 {
+    font-size: 5vw;
+}
+

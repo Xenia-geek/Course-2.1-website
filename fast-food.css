@@ -1,0 +1,166 @@
+body{overflow-x: hidden;
+     background:FFFFF;}
+
+.scrollup{
+width:40px;
+height:40px;
+opacity:0.3;
+position:fixed;
+bottom:7vw;
+right:7vw;
+display:none;
+text-indent:-9999px;
+background: url('arrow.png') no-repeat;
+z-index:10;
+}
+.arrow a:hover{ background: url('arrow.png') no-repeat;}
+.individ-banner a:hover{background:#FFFFFF; color: #000000;}
+.hot-dog-3 {position:absolute;font-family:Monotype Corsiva; width:50%; color:#006400; left:1%; top: 6vw; font-size:2vw;text-align:left;}
+.hot-dog-4 {position:absolute;font-family:Monotype Corsiva; width:50%; color:#006400; left:11%; top: 6vw; font-size:2vw;text-align:left;}
+.individ-banner-1 a:hover{background:#FFFFFF; color: #000000;}
+.hot-dog-5 {
+    position: absolute;
+    font-family: Monotype Corsiva;
+    width: 50%;
+    color: #556B2F;
+    left: 21%;
+    top: 6vw;
+    font-size: 2vw;
+    text-align: left;
+}
+.individ-banner-2 {position:absolute;font-family:Monotype Corsiva; width:50%; color:#006400; left:9%; top: 7.3vw; font-size:2vw;text-align:left;}
+.individ-banner-3 {position:absolute;font-family:Monotype Corsiva; width:50%; color:#006400; left:19.5%; top: 7.3vw; font-size:2vw;text-align:left;}
+
+ .fon-4 img{position:absolute; width:94%; right:0; left:3%; top: 12vw;}
+
+   .hot-1{text-align:center;}
+   .hot-1 img { position:absolute; width:45%; left:; right:0; left:27%; top: 20vw;z-index:10;}
+.text-5 {
+    position: absolute;
+    font-family: Monotype Corsiva;
+    width: 100%;
+    color: #556B2F;
+    font-size: 5vw;
+    top: 8vw;
+}
+
+
+   .fon img{position:absolute; width:94%; right:0; left:3%; top: 149vw;z-index:8;}
+
+   .t-1{
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:70.5%;
+       font-size:3vw; 
+       top:70vw; 
+       left:15.3%;
+       z-index:9;
+
+   }
+   
+   .t-2{
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:70.5%;
+       font-size:3vw; 
+       top:105.3vw;
+       left:15.3%;
+       z-index:9;
+       }
+   
+   .t-4{
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:70.5%;
+       font-size:3vw; 
+       top:159.9vw;
+       left:15.3%;
+       z-index:9;
+
+   }
+   
+   .t-5{
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:70.5%;
+       font-size:3vw; 
+       top:185vw;
+       left:15.3%;
+       z-index:9;
+
+   }
+   
+   .t-6{
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:70.5%;
+       font-size:3vw; 
+       top:212vw;
+       left:15.3%;
+       z-index:9;
+
+   }
+
+.fon-2 img,.fon-3 img,.fon-5 img,.fon-6 img,.fon-7 img,.fon-8 img{
+    display:none;
+
+}
+
+   
+   .t-8{
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:70.5%;
+       font-size:3vw; 
+       top:259vw;
+       left:15.3%;
+       z-index:9;
+
+   }
+   .t-9{
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:70.5%;
+       font-size:3vw; 
+       top:275.5vw;
+       left:15.3%;
+       z-index:9;
+
+   }
+
+footer {
+    height: 8vw;
+    background: url(a.jpg);
+    opacity: 0.9;
+    width: 98%;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 3vw 0;
+    position: relative;
+    top: 309vw;
+}
+
+    footer p {
+        font-size: 2.3vw;
+        text-align: center;
+        font-family: Monotype Corsiva;
+        margin-top: 0.1em; /* Отступ сверху */
+        margin-bottom: 0.1em; /* Отступ снизу */
+    }
+
+.footer1 {
+    font-size: 5vw;
+}
+    
+   
+
+
+
+   

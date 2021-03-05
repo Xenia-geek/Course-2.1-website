@@ -1,0 +1,387 @@
+body{overflow-x: hidden;
+     background:FFFFF;}
+
+.scrollup{
+width:40px;
+height:40px;
+opacity:0.3;
+position:fixed;
+bottom:7vw;
+right:7vw;
+display:none;
+text-indent:-9999px;
+background: url('arrow.png') no-repeat;
+z-index:14;
+}
+.arrow a:hover{ background: url('arrow.png') no-repeat; z-index:13;}
+.individ-banner a:hover{background:#FFFFFF; color: #000000;}
+.hot-dog-3 {position:absolute;font-family:Monotype Corsiva; width:50%; color:#006400; left:1%; top: 6vw; font-size:2vw;text-align:left;}
+.hot-dog-4 {position:absolute;font-family:Monotype Corsiva; width:50%; color:#006400; left:11%; top: 6vw; font-size:2vw;text-align:left;}
+.individ-banner-1 a:hover{background:#FFFFFF; color: #000000;}
+.hot-dog-5 {
+    position: absolute;
+    font-family: Monotype Corsiva;
+    width: 50%;
+    color: #556B2F;
+    left: 21%;
+    top: 6vw;
+    font-size: 2vw;
+    text-align: left;
+}
+.individ-banner-2 {position:absolute;font-family:Monotype Corsiva; width:50%; color:#006400; left:9%; top: 7.3vw; font-size:2vw;text-align:left;}
+.individ-banner-3 {position:absolute;font-family:Monotype Corsiva; width:50%; color:#006400; left:19.5%; top: 7.3vw; font-size:2vw;text-align:left;}
+
+ .fon-4 img{position:absolute; width:94%; right:0; left:3%; top: 12vw;}
+.fon img{position:absolute; width:94%; right:0; left:3%; top: 147vw;}
+
+
+   .hot-1{text-align:center;}
+   .hot-1 img { position:absolute; width:45%; left:; right:0; left:27%; top: 25vw;z-index:10;}
+.text-5 {
+    position: absolute;
+    font-family: Monotype Corsiva;
+    width: 97%;
+    color: #556B2F;
+    font-size: 5vw;
+    top: 8vw;
+}
+
+
+   .fon-2 img{position:absolute; width:94%; right:0; left:3%; top: 283vw;z-index:8;}
+
+   .t-1{
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:70.5%;
+       font-size:3vw; 
+       top:74vw;
+       left:15.3%;
+       z-index:9;
+
+   }
+   .t-12{
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:70.5%;
+       font-size:3vw; 
+       top:87.5vw;
+       left:15.3%;
+       z-index:9;
+       }
+   
+   .t-11
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:54.6%;
+       font-size:5.3vw; 
+       top:263vw;
+       left:50%;
+       z-index:9;
+
+   }
+   .t-5
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:70.5%;
+       font-size:4vw; 
+       top:267vw;
+       left:30%;
+       z-index:9;
+   }
+   .t-13
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:70.5%;
+       font-size:3vw; 
+       top:272.5vw;
+       left:15.3%;
+       z-index:9;}
+    .fon-3 img
+    {
+        position: absolute;
+        width: 94%;
+        right: 0;
+        left: 3%;
+        top: 417vw;
+        z-index: 3;
+    }
+.fon-7 img, .fon-5 img, .fon-6 img, .fon-8 img, .fon-9 img, .fon-10 img, .fon-11 img, .fon-12 img {
+    display: none;
+}
+.t-6 {
+    position: absolute;
+    text-align: justify;
+    font-family: Monotype Corsiva;
+    width: 54.6%;
+    font-size: 5.3vw;
+    top: 295vw;
+    left: 50%;
+    z-index: 9;
+}
+
+    
+    
+
+   .t-7
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:66.6%;
+       font-size:4vw; 
+       top:300vw;
+       left:26%;
+       z-index:9;
+   }
+   .t-14
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:70.5%;
+       font-size:3vw; 
+       top:306.5vw;
+       left:15.3%;
+       z-index:9;
+   }
+   
+   .t-8
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:54.6%;
+       font-size:5.3vw; 
+       top:334.7vw;
+       left:50%;
+       z-index:9;
+   }
+   .t-9
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:76.6%;
+       font-size:4vw; 
+       top:339.5vw;
+       left:15%;
+       z-index:9;
+   }
+   
+   .t-10
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:70.5%;
+       font-size:3vw; 
+       top:344.9vw;
+       left:15.3%;
+       z-index:9;
+   }
+   .t-15
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:54.6%;
+       font-size:5.3vw; 
+       top:366.5vw;
+       left:50%;
+       z-index:9;
+   }
+   .t-16
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:54.6%;
+       font-size:4vw; 
+       top:371.9vw;
+       left:32%;
+       z-index:9;
+   }
+   .t-17
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:70.5%;
+       font-size:3vw; 
+       top:377.6vw;
+       left:15.3%;
+       z-index:9;
+   }
+   
+   .t-18
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:54.6%;
+       font-size:5.3vw; 
+       top:402.9vw;
+       left:50%;
+       z-index:9;
+   }
+   .t-19
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:74.6%;
+       font-size:4vw; 
+       top:408vw;
+       left:30%;
+       z-index:9;
+   }
+   .t-20
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:70.5%;
+       font-size:3vw; 
+       top:413.9vw;
+       left:15.5%;
+       z-index:9;
+   }
+   .t-21
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:54.6%;
+       font-size:5.4vw; 
+       top:431.9vw;
+       left:50%;
+       z-index:9;
+   }
+   .t-22
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:74.6%;
+       font-size:4vw; 
+       top:437vw;
+       left:30%;
+       z-index:9;
+   }
+   
+   .t-23
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:70.5%;
+       font-size:3vw; 
+       top:442.4vw;
+       left:15.3%;
+       z-index:9;
+   }
+    
+   .t-24
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:54.6%;
+       font-size:5.4vw; 
+       top:465.5vw;
+       left:50%;
+       z-index:9;
+   }
+   .t-25
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:74.6%;
+       font-size:4vw; 
+       top:469.8vw;
+       left:28%;
+       z-index:9;
+   }
+   .t-26
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:70.5%;
+       font-size:3vw; 
+       top:473.8vw;
+       left:15.3%;
+       z-index:9;
+   }
+    
+   .t-27
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:54.6%;
+       font-size:5.4vw; 
+       top:501.9vw;
+       left:50%;
+       z-index:9;
+   }
+   .t-28
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:74.6%;
+       font-size:4vw; 
+       top:505.9vw;
+       left:15%;
+       z-index:9;
+   } 
+   .t-30
+   {
+       position:absolute;
+       text-align:justify; 
+       font-family:Monotype Corsiva;
+       width:70.5%;
+       font-size:3vw; 
+       top:515.6vw;
+       left:15.3%;
+       z-index:9;
+   }
+
+footer {
+    height: 8vw;
+    background: url(a.jpg);
+    opacity: 0.9;
+    width: 98%;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 3vw 0;
+    position: relative;
+    top: 565vw;
+    z-index:13;
+}
+
+    footer p {
+        font-size: 2.3vw;
+        text-align: center;
+        font-family: Monotype Corsiva;
+        margin-top: 0.1em; /* Отступ сверху */
+        margin-bottom: 0.1em; /* Отступ снизу */
+    }
+
+.footer1 {
+    font-size: 5vw;
+}
+    
+    
+   
+
